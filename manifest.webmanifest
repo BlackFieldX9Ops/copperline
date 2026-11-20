@@ -1,0 +1,25 @@
+{
+  "name": "Copperline",
+  "short_name": "Copperline",
+  "description": "Short-session 2.5D tactical shooter on the Silt Canal.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape-primary",
+  "background_color": "#14201f",
+  "theme_color": "#14201f",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
