@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Copperline">
+  <rect width="32" height="32" fill="#14302e"/>
+  <path d="M2 8h28" stroke="#2fbfb3" stroke-width="3"/>
+  <path d="M8 24 16 14l8 10h-4l-4-5-4 5z" fill="#d4844a"/>
+</svg>

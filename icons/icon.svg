@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Copperline">
+  <rect width="64" height="64" fill="#14302e"/>
+  <rect x="2" y="2" width="60" height="60" fill="none" stroke="#d4844a" stroke-width="2"/>
+  <path d="M4 16h56" stroke="#2fbfb3" stroke-width="5"/>
+  <path d="M16 46 32 28l16 18h-8L32 36 24 46z" fill="#d4844a"/>
+  <circle cx="48" cy="28" r="3.2" fill="#f3ead7"/>
+</svg>
